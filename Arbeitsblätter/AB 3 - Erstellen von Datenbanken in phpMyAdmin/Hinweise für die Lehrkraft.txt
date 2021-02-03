@@ -1,0 +1,6 @@
+Warum sollten PLZ und Hausnummer VARCHAR sein?
+=> PLZ im Osten beginnen mit einer 0, diese wird bei INT abgeschnitten.
+=> Hausnummer können 8A sein.
+
+Wie speichern wir Datenformat?
+Der Einfachheitshalber speichern wir diese mit YYYY-MM-DD als VARCHAR.

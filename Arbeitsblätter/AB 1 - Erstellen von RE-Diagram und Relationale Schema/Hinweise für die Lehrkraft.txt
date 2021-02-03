@@ -1,0 +1,1 @@
+Da sich der Primärschlüssel einer Relation immer aus den beiden Fremdschlüsseln zusammensetzt muss bei der Lieferung von Impfstoffen eine zusätzliche Entität genutzt werden. Ansonsten ist nur eine einzige Lieferung pro Impfstoff und Zentrum möglich.
